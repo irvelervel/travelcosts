@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tehKapa",
+      "name": "Matteo Vivona",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6388707?v=4",
+      "profile": "http://matteovivona.it",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "travelcosts",
+  "projectOwner": "tehKapa",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
